@@ -1,3 +1,5 @@
+package aula24;
+
 import java.util.Locale;
 
 public class Main {
