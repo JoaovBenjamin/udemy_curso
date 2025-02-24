@@ -1,0 +1,25 @@
+Primeiro resolvemos um problema envolvendo a area de um trianglo, sem a orientação a objeto. Para comparar e mostrar qual o problema que a OO veio resolver.
+
+Primeiro ponto:
+o triângulo é uma entidade com três atributos: lado a, lado b e lado c.
+
+Para comparar dois triângulos criamos no minimo 6 variáveis, consumindo muito espaço na memória e deixando difícil a legibilidade do código.
+
+Para melhorar, o uso da classe para representar o triângulo evita este erro
+
+Mas o que é classe ?
+
+.É um tipo estruturado que pode conter membros:
+    .Atributos (dados/campos)
+    .Métodos (funções/operações)
+
+.A classe também pode prover outros recursos, como:
+    .Contrutores
+    .Sobrecarga
+    .Encapsulamento
+    .Henrança
+    .Polimórfismo
+
+Agora como triangle é uma classe, ele passa ser um tipo composto em java, como um tipo de dados.
+
+
