@@ -23,3 +23,11 @@ Mas o que é classe ?
 Agora como triangle é uma classe, ele passa ser um tipo composto em java, como um tipo de dados.
 
 
+O que é Instanciar os metodos, ou a classe.
+
+Quando temos nosso programa rodando usando POO, quando invocamos um objeto, ou instaciamos ele. Ele vai para um parte da memória chamada HEAP e ela é uma memoria temporária, apenas enquanto roda o programa. Ou seja quando invocamos um objeto, ele vai apontar para o endereço de memória que contem no HEAP.
+
+Lembrando:
+
+Classe: é a definição dos atributos e metodos
+Objeto: é a instaciação dessas classes
