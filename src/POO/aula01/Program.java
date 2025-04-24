@@ -24,11 +24,9 @@ public class Program {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        double p = (x.a + x.b + x.c)/2;
-        double area = Math.sqrt(p*(p - x.a) * (p - x.b) *  (p - x.c));
+        double area = x.area();
 
-        double pY = (y.a + y.b + y.c)/2;
-        double areaY = Math.sqrt(pY*(pY - y.a) * (pY - y.b) *  (pY - y.c));
+        double areaY = y.area();
 
         System.out.printf("Triangle X area: %.4f%n", area);
         System.out.printf("Triangle Y area: %.4f%n", areaY);
